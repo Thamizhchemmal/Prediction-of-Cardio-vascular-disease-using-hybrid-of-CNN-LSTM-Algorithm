@@ -1,0 +1,5 @@
+Classification report
+                                
+Precision : 96.06
+Recall : 99.77
+F1_score : 95.30
